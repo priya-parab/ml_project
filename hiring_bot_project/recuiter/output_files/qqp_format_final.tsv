@@ -1,0 +1,426 @@
+0	1	2	PIP is a package manager for installing  Python packages	Pip is a python package management system which can also be used to install various software written in python	1
+1	2	3	A mechanism to deselect a range of items from sequence types like list, tuple, strings etc. is known as slicing.	slice=[start index,end index,step] and join the elements from start to end index	0
+2	3	4	 A Python dictionary is a mapping of unique keys to values. Dictionaries are mutable, which means they can be changed	A dictionary consists of a collection of index-value pairs. Each index-value pair maps the key to its associated value	0
+3	4	5	SET is unordered collections of unique elements	 Set can be defined as the unordered collection of various items 	1
+4	5	6	tuples are used to store immutable object	A Python tuple is just like a list of a sequence of mutable objects	0
+5	6	7	The map() function calls the specified function for each item of an iterable	The map() built-in function returns an value or after applying the function to each item in the sequence	0
+6	7	8	 Encapsulation. In an object oriented python program, you can restrict access to methods and variables. This can prevent the data from being modified by accident and is known as encapsulation	allow  data from direct modification which is called encapsulation	0
+7	8	9	Lists are mutable i.e they can be edited whereas Tuples are immutable 	 lists are mutable whereas tuples are mutable	0
+8	9	10	Map applies a function to all the items in an input_list	map() function returns a dictionary of the results after applying the given function to each item of a given iterable (list, tuple etc.)	0
+9	10	11	pickling is define as tool to convert python object  into a analog stream 	pickling :used to convert python object  into a analog stream 	0
+10	11	12	A Python tuple is just like a list of a sequence of immutable objects	A Python tuple is just like a list of a sequence of mutable objects	0
+11	12	13	pdb implements an interactive debugging environment for Python programs	pdb, short for java debugger is a standard built-in module used to debug java code interactively	0
+12	13	14	Pip is a package management system, used to install and manage software packages written in Python	The Python pickle is defined as a module which accepts any Python object and converts it into a analog representation.	0
+13	14	15	PEP 8 is defined as a document that helps us to provide the guidelines on how to write the Python code	 a document that tell us to provide the guidelines on how to write the java code is PEP8	0
+14	15	16	virtual environment  is  used to create an isolated workspace for a Python application.	A virtual environment is a tool that helps to keep dependencies required by different projects separate by creating unisolated python virtual environments for them	0
+15	16	17	Dictionary in Python is an mutable, unordered collection of data values,Dictionary holds key:value pair.	A dictionary consists of a collection of index-value pairs. Each index-value pair maps the key to its associated value	0
+16	17	18	Pip is a package management system, used to install and manage software packages written in Python	Pip is a python package management system which can also be used to uninstall various software written in python	0
+17	18	19	list element and size can be changed(mutable), but a tuple cannot	list element and size can be unchanged(immutable), but a tuple cannot	0
+18	19	20	the child class inherits the attributes and methods of the parent class	Python inheritance means creating a new class that inherits all functionalities from parent class & allows to add more	1
+19	20	21	polymorphism means same function name (but different signatures) being uses for different types	polymorphism means different function name (but different signatures) being uses for  different types	0
+20	21	22	 a class is derived from another class inheriting its features.	the child class inherits the attributes and methods of the child class	0
+21	22	23	map() function returns a list of the results after applying the given function to each item of a given iterable (list, tuple etc.)	The map() built-in function returns an iterator after applying the function to each item in the sequence	1
+22	23	24	Lists are mutable i.e they can be edited whereas Tuples are immutable 	 lists are mutable whereas tuples are immutable	1
+23	24	25	Small anonymous functions can be created with the lambda keyword	Lambda is a single expression unanonymous function often used as inline function	0
+24	25	26	Inheritance allows us to define a class that inherits all the methods and properties from another class	Inheritance allows us to define a class that inherits all the methods and properties from same class	0
+25	26	27	Encapsulation means wrapping the implementation of data member and methods inside a class	 Encapsulation. In an object oriented python program, you can allow access to methods and variables. This can allow the data from being modified by accident and is known as encapsulation	0
+26	27	28	A tuple is a sequence of immutable Python objects	tuples are used to store mutable object	0
+27	28	29	Python is an open-source programming language that is high level and works as a general purpose language	Python is an close-source programming language that is low level and works as a general purpose language	0
+28	29	30	the tuples are mutable	tuples are used to store mutable object	0
+29	30	31	 pip command is a tool for installing and managing Python packages	Pip is a python package management system which can also be used to install various software written in python	1
+30	31	32	pdb, short for python debugger is a standard built-in module used to debug python code interactively	pdb implements an interactive debugging environment for java programs	0
+31	32	33	Map applies a function to all the items in an input_list	The map() function calls the any function for each item of an iterable	0
+32	33	34	PIP is a package manager for installing  Python packages	Pip is a package management system, used to install and unmanage software packages written in Python	0
+33	34	35	Lists are mutable i.e they can be edited	List is a mutable, or changeable, ordered sequence of element	1
+34	35	36	Decorators allow you to make simple modifications to callable objects like functions	Python has an interesting feature called decorators to delete functionality to an existing code	0
+35	36	37	List is a mutable, or changeable, ordered sequence of element	List is a immutable, or changeable, ordered sequence of element	0
+36	37	38	The module pdb defines an interactive source code debugger for Python programs.	pdb, short for java debugger is a standard built-in module used to debug java code interactively	0
+37	38	39	PEP 8 is defined as a document that helps us to provide the guidelines on how to write the Python code	PEP 8: a set of rules to format and degrades codes readability.	0
+38	39	40	Abstraction is used to hide internal details and show only functionalities.	Abstraction means, showcasing only the required things to the outside world while hiding the details.	1
+39	40	41	Small unanonymous functions can be created with the lambda keyword	lambda functions is very small and consists of only two expression	0
+40	41	42	Abstraction means hiding the complexity and only showing the essential features of the object	Abstraction show  the background details and emphasizes the essential data points for reducing the complexity and increase efficiency	0
+41	42	43	virtual environment  is  used to create an isolated workspace for a Python application.	Virtual environment  is a tool which prevents us to make isolated python environments	0
+42	43	44	 lists are mutable whereas tuples are immutable	list element and size can be unchanged(immutable), but a tuple cannot	0
+43	44	45	A virtual environment is a tool that helps to keep dependencies required by different projects separate by creating isolated python virtual environments for them	A virtual environment is a tool that helps to keep dependencies required by different projects separate by creating unisolated python virtual environments for them	0
+44	45	46	Pip is a package management system, used to install and unmanage software packages written in Python	Pip is a python package management system which can also be used to uninstall various software written in python	0
+45	46	47	Abstraction show  the background details and emphasizes the essential data points for reducing the complexity and increase efficiency	Abstraction means, showcasing only the required things to the outside world while showing the details.	0
+46	47	48	The difference between list and tuple is that a list is mutable while tuple is not	The difference between list and tuple is that a list is immutable while tuple is not	0
+47	48	49	Polymorphism means that different types respond to the same function	Polymorphism is the concept where an object behaves same in different  situations	0
+48	49	50	Abstraction is used to hide internal details and show only functionalities.	Abstraction  hides the background details and emphasizes the essential data points for reducing the complexity and increase efficiency	1
+49	50	51	The module pdb defines an interactive source code debugger for Python programs.	pdb implements an interactive debugging environment for Python programs	1
+50	51	52	Django is a high-level Python Web framework that encourages rapid development and clean, pragmatic design	Django is a web framework built with the java programming language	0
+51	52	53	Abstraction means hiding the complexity and only showing the essential features of the object	Abstraction is used to hide internal details and show only functionalities.	1
+52	53	54	A virtual environment is a tool that helps to keep dependencies required by different projects separate by creating isolated python virtual environments for them	Virtual environment  is a tool which prevents us to make isolated python environments	0
+53	54	55	PEP 8 is defined as a document that helps us to provide the guidelines on how to write the Python code	PEP 8 is defined as a document that helps us to provide the guidelines on how to write the java code	0
+54	55	56	Lambda is a single expression anonymous function often used as inline function	Small unanonymous functions can be created with the lambda keyword	0
+55	56	57	pickling is define as tool to convert python object  into a analog stream 	The Python pickle is defined as a module which accepts any Python object and converts it into a analog representation.	0
+56	57	58	Pip is a python package management system which can also be used to install various software written in python	 pip command is a tool for uninstalling and managing Python packages	0
+57	58	59	A Python decorator is a specific change that we make in Python syntax to alter functions easily	Decorators allow you to make simple modifications to callable objects like functions	1
+58	59	60	Python is an interpreted objectoriented programming language	Python is an interpreted, high-level, general-purpose designing language	0
+59	60	61	prevent data from direct modification which is called encapsulation	Encapsulation is the packing of data and functions operating on that data into a double component and allowing the access to some of the object's components	0
+60	61	62	A Set is an unordered collection data type that is iterable, mutable, and has no duplicate elements	a set is a data structure that stores unordered items	1
+61	62	63	A lambda function is a small anonymous function,but can only have one expression	Lambda is a single expression anonymous function often used as inline function	1
+62	63	64	PEP 8 is a coding convention, a set of recommendation, about how to write your Python code more readable.	PEP 8: a set of rules to format and degrades codes readability.	0
+63	64	65	A Set is an unordered collection data type that is iterable, mutable, and has no duplicate elements	 Set can be defined as the unordered collection of various items 	1
+64	65	66	Python inheritance means creating a new class that inherits all functionalities from parent class & allows to add more	Inheritance allows us to define a class that inherits all the methods and properties from same class	0
+65	66	67	lambda functions is very small and consists of only one expression	Small unanonymous functions can be created with the lambda keyword	0
+66	67	68	A dictionary is a collection which is unordered, changeable and they have keys and values	 A Python dictionary is a mapping of similar keys to values. Dictionaries are mutable, which means they can be changed	0
+67	68	69	Small anonymous functions can be created with the lambda keyword	Small unanonymous functions can be created with the lambda keyword	0
+68	69	70	A Python decorator is a specific change that we make in Python syntax to alter functions easily	Python has an interesting feature called decorators to delete functionality to an existing code	0
+69	70	71	virtual environment will keep different project environments isolated	Virtual environment  is a tool which prevents us to make isolated python environments	0
+70	71	72	Lists are mutable i.e they can be edited whereas Tuples are immutable 	list element and size can be unchanged(immutable), but a tuple cannot	0
+71	72	73	Python is a widely used general-purpose, dynamic, extensible, high-level programming language	Python is an interpreted objectoriented designing language	0
+72	73	74	Decorators are functions which will not change the functionality of other functions	Python has an interesting feature called decorators to delete functionality to an existing code	0
+73	74	75	"Django is a free and open source web application framework written in Python,which follows the model-view-template (MVT) architectural 
+"	 Django is an MVT web framework used to build web applications	1
+74	75	76	Pip is a package management system, used to install and unmanage software packages written in Python	 pip command is a tool for uninstalling and managing Python packages	0
+75	76	77	Python has a built-in debugger called pdb	pdb implements an interactive debugging environment for java programs	0
+76	77	78	Python is an interpreted objectoriented designing language	Python is an interpreted, high-level, general-purpose designing language	0
+77	78	79	The module pdb defines an interactive source code debugger for Python programs.	pdb, short for python debugger is a standard built-in module used to debug python code interactively	1
+78	79	80	pickling :used to convert python object  into a binary stream 	pickling is define as tool to convert python object  into a analog stream 	0
+79	80	81	 lists are mutable whereas tuples are mutable	The difference between list and tuple is that a list is immutable while tuple is not	0
+80	81	82	A Python tuple is just like a list of a sequence of immutable objects	tuples are used to store mutable object	0
+81	82	83	prevent data from direct modification which is called encapsulation	 Encapsulation. In an object oriented python program, you can restrict access to methods and variables. This can prevent the data from being modified by accident and is known as encapsulation	1
+82	83	84	Python is a widely used general-purpose, dynamic, extensible, high-level programming language	Python is an interpreted objectoriented programming language	1
+83	84	85	Django is a high-level Python Web framework that encourages rapid development and clean, pragmatic design	 Django is an MVT web framework used to build web applications	1
+84	85	86	A slice object is used to specify how to slice a sequence. You can specify where to start the slicing, and where to end. You can also specify the step, which allows you to e.g. slice only every other item.	slice=[start index,end index,step] and retives the elements from start to end index	1
+85	86	87	pickling :used to convert python object  into a binary stream 	The Python pickle is defined as a module which accepts any Python object and converts it into a analog representation.	0
+86	87	88	Pip is a package management system, used to install and manage software packages written in Python	Pip is a package management system, used to install and unmanage software packages written in Python	0
+87	88	89	Python has an interesting feature called decorators to add functionality to an existing code	Decorators allow you to make simple modifications to callable objects like functions	1
+88	89	90	 pip command is a tool for uninstalling and managing Python packages	Pip is a python package management system which can also be used to uninstall various software written in python	0
+89	90	91	lambda functions is very small and consists of only one expression	Small anonymous functions can be created with the lambda keyword	1
+90	91	92	Abstraction  hides the background details and emphasizes the essential data points for reducing the complexity and increase efficiency	Abstraction is used to hide external details and show only functionalities.	0
+91	92	93	A slice object is used to specify how to slice a sequence. You can specify where to start the slicing, and where to end. You can also specify the step, which allows you to e.g. slice only every other item.	slice=[start index,end index,step] and join the elements from start to end index	0
+92	93	94	Encapsulation is the packing of data and functions operating on that data into a single component and restricting the access to some of the object's components	allow  data from direct modification which is called encapsulation	0
+93	94	95	Abstraction means, showcasing only the required things to the outside world while hiding the details.	Abstraction show  the background details and emphasizes the essential data points for reducing the complexity and increase efficiency	0
+94	95	96	Django is a high-level Python Web framework that encourages rapid development and clean, pragmatic design	 Django is an MVT game framework used to build game applications	0
+95	96	97	The slice() constructor creates a slice object representing the set of indices specified by range(start, stop, step)	slice=[start index,end index,step] and retives the elements from start to end index	1
+96	97	98	virtual environment  is  used to create an isolated workspace for a Python application.	Virtual environment  is a tool which allows us to make isolated python environments	1
+97	98	99	Python is an open-source programming language that is high level and works as a general purpose language	Python is an interpreted objectoriented designing language	0
+98	99	100	Abstraction means hiding the complexity and only showing the essential features of the object	Abstraction means, showcasing only the required things to the outside world while hiding the details.	1
+99	100	101	Map applies a function to all the items in an input_list	The map() built-in function returns an value or after applying the function to each item in the sequence	0
+100	101	102	Python has an interesting feature called decorators to add functionality to an existing code	Decorators are functions which modify the functionality of other functions	1
+101	102	103	A slice object is used to specify how to join a sequence. You can specify where to start the join, and where to end. You can also specify the step, which allows you to e.g. join only every other item.	slice=[start index,end index,step] and join the elements from start to end index	0
+102	103	104	A virtual environment is a tool that helps to keep dependencies required by different projects separate by creating isolated python virtual environments for them	 virtual environment  is used to create an unisolated workspace for a Python application.	0
+103	104	105	the tuples are mutable	A Python tuple is just like a list of a sequence of mutable objects	0
+104	105	106	Django is a high-level Python Web framework that encourages rapid development and clean, pragmatic design	Django is a low-level java Web framework that encourages rapid development and clean, pragmatic design	0
+105	106	107	A dictionary is a collection which is unordered, changeable and they have keys and values	A dictionary is a collection which is ordered, changeable and they have index and values	0
+106	107	108	lambda functions is very small and consists of only one expression	lambda functions is very small and consists of only two expression	0
+107	108	109	The map() built-in function returns an iterator after applying the function to each item in the sequence	The map() function calls the any function for each item of an iterable	0
+108	109	110	Decorators are functions which modify the functionality of other functions	Decorators are functions which will not change the functionality of other functions	0
+109	110	111	Polymorphism is the concept where an object behaves same in different  situations	polymorphism means different function name (but different signatures) being uses for  different types	0
+110	111	112	map() function returns a dictionary of the results after applying the given function to each item of a given iterable (list, tuple etc.)	The map() function calls the any function for each item of an iterable	0
+111	112	113	lambda functions is very small and consists of only one expression	Lambda is a single expression unanonymous function often used as inline function	0
+112	113	114	Lists are mutable i.e they can be edited	A list is a collection which is unordered and unchangeable.	0
+113	114	115	 pip command is a tool for installing and managing Python packages	Pip is a package management system, used to install and unmanage software packages written in Python	0
+114	115	116	virtual environment  is  used to create an isolated workspace for a Python application.	 virtual environment  is used to create an unisolated workspace for a Python application.	0
+115	116	117	polymorphism means same function name (but different signatures) being uses for different types	Polymorphism is the concept where an object behaves differently in different situations	1
+116	117	118	A dictionary consists of a collection of index-value pairs. Each index-value pair maps the key to its associated value	 A Python dictionary is a mapping of similar keys to values. Dictionaries are mutable, which means they can be changed	0
+117	118	119	Python is a widely used general-purpose, dynamic, extensible, high-level programming language	Python is an close-source programming language that is low level and works as a general purpose language	0
+118	119	120	Decorators are functions which modify the functionality of other functions	Decorators prevents you to make simple modifications to callable objects like functions	0
+119	120	121	 a class is derived from another class inheriting its features.	Python inheritance means creating a new class that inherits all functionalities from any class & allows to add more	0
+120	121	122	virtual environment will keep different project environments isolated	A virtual environment is a tool that helps to keep dependencies required by different projects separate by creating isolated python virtual environments for them	1
+121	122	123	Polymorphism is the concept where an object behaves differently in different situations	polymorphism means different function name (but different signatures) being uses for  different types	0
+122	123	124	The module pdb defines an interactive source code debugger for Python programs.	java has a built-in debugger called pdb	0
+123	124	125	Python is a widely used general-purpose, dynamic, extensible, high-level programming language	Python is an interpreted, high-level, general-purpose designing language	0
+124	125	126	 a class is derived from another class inheriting its features.	Inheritance allows us to define a class that inherits all the methods and properties from same class	0
+125	126	127	Pip is a package management system, used to install and manage software packages written in Python	pickling :used to convert python object  into a analog stream 	0
+126	127	128	The Python pickle is defined as a module which accepts any Python object and converts it into a string representation.	pickling is define as tool to convert python object  into a analog stream 	0
+127	128	129	Virtual environment  is a tool which allows us to make isolated python environments	A virtual environment is a tool that helps to keep dependencies required by different projects separate by creating isolated python virtual environments for them	1
+128	129	130	Django is a web framework built with the Python programming language	 Django is an MVT game framework used to build game applications	0
+129	130	131	The slice() constructor creates a slice object representing the set of indices specified by range(start, stop, step)	slice=[start index,end index,step] and join the elements from start to end index	0
+130	131	132	Abstraction means hiding the complexity and only showing the essential features of the object	Abstraction  hides the background details and emphasizes the essential data points for reducing the complexity and increase efficiency	1
+131	132	133	Python is an close-source programming language that is low level and works as a general purpose language	Python is an interpreted objectoriented designing language	0
+132	133	134	Abstraction is used to hide external details and show only functionalities.	Abstraction means, showcasing only the required things to the outside world while showing the details.	0
+133	134	135	"Django is a free and open source web application framework written in Python,which follows the model-view-template (MVT) architectural 
+"	Django is a high-level Python Web framework that encourages rapid development and clean, pragmatic design	1
+134	135	136	A Set is an unordered collection data type that is iterable, mutable, and has no duplicate elements	SET is unordered collections of unique elements	1
+135	136	137	PEP 8 is a coding convention, a set of recommendation, about how to write your Python code more readable.	PEP 8 is defined as a document that helps us to provide the guidelines on how to write the Python code	1
+136	137	138	polymorphism means same function name (but different signatures) being uses for different types	polymorphism means same function name (but different signatures) being uses for different types	1
+137	138	139	Lambda is a single expression anonymous function often used as inline function	Lambda is a single expression unanonymous function often used as inline function	0
+138	139	140	 lists are mutable whereas tuples are immutable	The difference between list and tuple is that a list is immutable while tuple is not	0
+139	140	141	A list is a collection which is ordered and changeable.	Lists are immutable i.e they can not be edited	0
+140	141	142	tuples are used to store immutable object	A Python tuple is just like a list of a sequence of immutable objects	1
+141	142	143	Python has an interesting feature called decorators to add functionality to an existing code	Decorators are functions which will not change the functionality of other functions	0
+142	143	144	The map() built-in function returns an value or after applying the function to each item in the sequence	The map() function calls the any function for each item of an iterable	0
+143	144	145	polymorphism means same function name (but different signatures) being uses for different types	polymorphism means different function name (but different signatures) being uses for  different types	0
+144	145	146	 pip command is a tool for installing and managing Python packages	Pip is a python package management system which can also be used to uninstall various software written in python	0
+145	146	147	A Python tuple is just like a list of a sequence of immutable objects	the tuples cannot be changed 	1
+146	147	148	A slice object is used to specify how to slice a sequence. You can specify where to start the slicing, and where to end. You can also specify the step, which allows you to e.g. slice only every other item.	A mechanism to deselect a range of items from sequence types like list, tuple, strings etc. is known as slicing.	0
+147	148	149	Encapsulation is the packing of data and functions operating on that data into a single component and restricting the access to some of the object's components	 Encapsulation. In an object oriented python program, you can allow access to methods and variables. This can allow the data from being modified by accident and is known as encapsulation	0
+148	149	150	pdb, short for java debugger is a standard built-in module used to debug java code interactively	java has a built-in debugger called pdb	0
+149	150	151	List is a mutable, or changeable, ordered sequence of element	A list is a collection which is ordered and changeable.	1
+150	151	152	Lists are mutable i.e they can be edited	Lists are immutable i.e they can not be edited	0
+151	152	153	Pip is a python package management system which can also be used to install various software written in python	Pip is a python package management system which can also be used to uninstall various software written in python	0
+152	153	154	polymorphism means same function name (but different signatures) being uses for different types	polymorphism means different function name (but different signatures) being uses for different types	0
+153	154	155	Inheritance allows us to define a class that inherits all the methods and properties from another class	Python inheritance means creating a new class that inherits all functionalities from any class & allows to add more	0
+154	155	156	Abstraction is used to hide internal details and show only functionalities.	Abstraction means, showcasing only the required things to the outside world while showing the details.	0
+155	156	157	Python is an interpreted, high-level, general-purpose programming language	Python is an open-source programming language that is high level and works as a general purpose language	1
+156	157	158	A mechanism to deselect a range of items from sequence types like list, tuple, strings etc. is known as slicing.	A slice object is used to specify how to join a sequence. You can specify where to start the join, and where to end. You can also specify the step, which allows you to e.g. join only every other item.	0
+157	158	159	 a document that tell us to provide the guidelines on how to write the java code is PEP8	PEP 8: a set of rules to format and degrades codes readability.	0
+158	159	160	Inheritance allows us to define a class that inherits all the methods and properties from same class	the child class inherits the attributes and methods of the child class	0
+159	160	161	Lists are mutable i.e they can be edited	A list is a collection which is ordered and changeable.	1
+160	161	162	 Encapsulation. In an object oriented python program, you can restrict access to methods and variables. This can prevent the data from being modified by accident and is known as encapsulation	Encapsulation is the packing of data and functions operating on that data into a single component and restricting the access to some of the object's components	1
+161	162	163	the child class inherits the attributes and methods of the parent class	Python inheritance means creating a new class that inherits all functionalities from any class & allows to add more	0
+162	163	164	pdb implements an interactive debugging environment for Python programs	java has a built-in debugger called pdb	0
+163	164	165	Abstraction means, showcasing only the required things to the outside world while hiding the details.	Abstraction is used to hide external details and show only functionalities.	0
+164	165	166	A Set is an unordered collection data type that is iterable, mutable, and has no duplicate elements	 Set can be defined as the ordered collection of various items 	0
+165	166	167	Python is an open-source programming language that is high level and works as a general purpose language	Python is an interpreted, high-level, general-purpose designing language	0
+166	167	168	PEP 8: a set of rules to format and improve codes readability.	PEP 8: a set of rules to format and degrades codes readability.	0
+167	168	169	The Python pickle is defined as a module which accepts any Python object and converts it into a string representation.	Pip is a package management system, used to install and manage software packages written in Python	1
+168	169	170	Encapsulation is the packing of data and functions operating on that data into a double component and allowing the access to some of the object's components	allow  data from direct modification which is called encapsulation	0
+169	170	171	The slice() constructor creates a slice object representing the set of indices specified by range(start, stop, step)	A mechanism to select a range of items from sequence types like list, tuple, strings etc. is known as slicing.	1
+170	171	172	A virtual environment is a tool that helps to keep dependencies required by different projects separate by creating unisolated python virtual environments for them	 virtual environment  is used to create an unisolated workspace for a Python application.	0
+171	172	173	Python is an interpreted objectoriented programming language	Python is an interpreted objectoriented designing language	0
+172	173	174	prevent data from direct modification which is called encapsulation	 Encapsulation. In an object oriented python program, you can allow access to methods and variables. This can allow the data from being modified by accident and is known as encapsulation	0
+173	174	175	Python has an interesting feature called decorators to add functionality to an existing code	Python has an interesting feature called decorators to delete functionality to an existing code	0
+174	175	176	Lists are mutable i.e they can be edited whereas Tuples are immutable 	The difference between list and tuple is that a list is immutable while tuple is not	0
+175	176	177	Encapsulation means wrapping the implementation of data member and methods inside a class	prevent data from direct modification which is called encapsulation	1
+176	177	178	 a class is derived from another class inheriting its features.	Inheritance allows us to define a class that inherits all the methods and properties from another class	1
+177	178	179	Decorators allow you to make simple modifications to callable objects like functions	Decorators prevents you to make simple modifications to callable objects like functions	0
+178	179	180	A tuple is a sequence of immutable Python objects	tuples are used to store immutable object	1
+179	180	181	SET is unordered collections of unique elements	a set is a data structure that stores ordered items	0
+180	181	182	a set is a data structure that stores ordered items	SET is unordered collections of unique elements	0
+181	182	183	polymorphism means same function name (but different signatures) being uses for different types	polymorphism means different function name (but different signatures) being uses for different types	0
+182	183	184	 Encapsulation. In an object oriented python program, you can restrict access to methods and variables. This can prevent the data from being modified by accident and is known as encapsulation	Encapsulation is the packing of data and functions operating on that data into a double component and allowing the access to some of the object's components	0
+183	184	185	pdb implements an interactive debugging environment for Python programs	pdb implements an interactive debugging environment for java programs	0
+184	185	186	Abstraction means, showcasing only the required things to the outside world while hiding the details.	Abstraction  hides the background details and emphasizes the essential data points for reducing the complexity and increase efficiency	1
+185	186	187	pickling :used to convert python object  into a analog stream 	The Python pickle is defined as a module which accepts any Python object and converts it into a analog representation.	0
+186	187	188	PIP is a package manager for installing  Python packages	 pip command is a tool for installing and managing Python packages	1
+187	188	189	tuples are used to store immutable object	the tuples cannot be changed 	1
+188	189	190	The map() function calls the specified function for each item of an iterable	The map() function calls the any function for each item of an iterable	0
+189	190	191	the child class inherits the attributes and methods of the parent class	Inheritance allows us to define a class that inherits all the methods and properties from another class	1
+190	191	192	Lambda is a single expression anonymous function often used as inline function	Small anonymous functions can be created with the lambda keyword	1
+191	192	193	collection  of elements which are ordered and can be changed is defined as list	List is a immutable, or changeable, ordered sequence of element	0
+192	193	194	A slice object is used to specify how to slice a sequence. You can specify where to start the slicing, and where to end. You can also specify the step, which allows you to e.g. slice only every other item.	A mechanism to select a range of items from sequence types like list, tuple, strings etc. is known as slicing.	1
+193	194	195	Python inheritance means creating a new class that inherits all functionalities from parent class & allows to add more	Inheritance allows us to define a class that inherits all the methods and properties from another class	1
+194	195	196	Polymorphism means that different types respond to the same function	polymorphism means different function name (but different signatures) being uses for different types	0
+195	196	197	collection  of elements which are ordered and can be changed is defined as list	A list is a collection which is ordered and changeable.	1
+196	197	198	A tuple is a sequence of immutable Python objects	the tuples cannot be changed 	1
+197	198	199	pickling :used to convert python object  into a binary stream 	pickling :used to convert python object  into a analog stream 	0
+198	199	200	The module pdb defines an interactive source code debugger for Python programs.	pdb implements an interactive debugging environment for java programs	0
+199	200	201	A list is a collection which is unordered and unchangeable.	List is a immutable, or changeable, ordered sequence of element	0
+200	201	202	The Python pickle is defined as a module which accepts any Python object and converts it into a string representation.	pickling :used to convert python object  into a analog stream 	0
+201	202	203	Dictionary in Python is an mutable, unordered collection of data values,Dictionary holds key:value pair.	 A Python dictionary is a mapping of unique keys to values. Dictionaries are mutable, which means they can be changed	1
+202	203	204	 Set can be defined as the unordered collection of various items 	a set is a data structure that stores ordered items	0
+203	204	205	Map applies a function to all the items in an input_list	map() function returns a list of the results after applying the given function to each item of a given iterable (list, tuple etc.)	1
+204	205	206	 a class is derived from another class inheriting its features.	the child class inherits the attributes and methods of the parent class	1
+205	206	207	Django is a web framework built with the java programming language	 Django is an MVT game framework used to build game applications	0
+206	207	208	 lists are mutable whereas tuples are immutable	 lists are mutable whereas tuples are mutable	0
+207	208	209	 pip command is a tool for installing and managing Python packages	Pip is a package management system, used to install and manage software packages written in Python	1
+208	209	210	A tuple is a sequence of immutable Python objects	A Python tuple is just like a list of a sequence of mutable objects	0
+209	210	211	Dictionary in Python is an mutable, unordered collection of data values,Dictionary holds key:value pair.	A dictionary is a collection which is ordered, changeable and they have index and values	0
+210	211	212	Virtual environment  is a tool which allows us to make isolated python environments	Virtual environment  is a tool which prevents us to make isolated python environments	0
+211	212	213	Python is an interpreted, high-level, general-purpose programming language	Python is an interpreted objectoriented designing language	0
+212	213	214	collection  of elements which are ordered and can be changed is defined as list	Lists are immutable i.e they can not be edited	0
+213	214	215	The Python pickle is defined as a module which accepts any Python object and converts it into a string representation.	The Python pickle is defined as a module which accepts any Python object and converts it into a analog representation.	0
+214	215	216	A lambda function is a small anonymous function,but can only have one expression	lambda functions is very small and consists of only one expression	1
+215	216	217	A Python decorator is a specific change that we make in Python syntax to alter functions easily	Python has an interesting feature called decorators to add functionality to an existing code	1
+216	217	218	 Set can be defined as the ordered collection of various items 	SET is unordered collections of unique elements	0
+217	218	219	Python is an close-source programming language that is low level and works as a general purpose language	Python is an interpreted, high-level, general-purpose designing language	0
+218	219	220	PEP 8: a set of rules to format and improve codes readability.	 a document that tell us to provide the guidelines on how to write the java code is PEP8	0
+219	220	221	Dictionary in Python is an mutable, unordered collection of data values,Dictionary holds key:value pair.	 A Python dictionary is a mapping of similar keys to values. Dictionaries are mutable, which means they can be changed	0
+220	221	222	A lambda function is a small anonymous function,but can only have one expression	Small anonymous functions can be created with the lambda keyword	1
+221	222	223	Pickling - is the process whereby a Python object hierarchy is converted into a byte stream	pickling is define as tool to convert python object  into a analog stream 	0
+222	223	224	slice=[start index,end index,step] and retives the elements from start to end index	A slice object is used to specify how to join a sequence. You can specify where to start the join, and where to end. You can also specify the step, which allows you to e.g. join only every other item.	0
+223	224	225	Python is an interpreted, high-level, general-purpose programming language	Python is an interpreted, high-level, general-purpose designing language	0
+224	225	226	A lambda function is a small anonymous function,but can only have one expression	Small unanonymous functions can be created with the lambda keyword	0
+225	226	227	Pip is a package management system, used to install and manage software packages written in Python	 pip command is a tool for uninstalling and managing Python packages	0
+226	227	228	The map() built-in function returns an iterator after applying the function to each item in the sequence	map() function returns a dictionary of the results after applying the given function to each item of a given iterable (list, tuple etc.)	0
+227	228	229	The slice() constructor creates a slice object representing the set of indices specified by range(start, stop, step)	A mechanism to deselect a range of items from sequence types like list, tuple, strings etc. is known as slicing.	0
+228	229	230	slice=[start index,end index,step] and retives the elements from start to end index	A mechanism to deselect a range of items from sequence types like list, tuple, strings etc. is known as slicing.	0
+229	230	231	 A Python dictionary is a mapping of unique keys to values. Dictionaries are mutable, which means they can be changed	A dictionary consists of a collection of key-value pairs. Each key-value pair maps the key to its associated value	1
+230	231	232	 Django is an MVT web framework used to build web applications	 Django is an MVT game framework used to build game applications	0
+231	232	233	Decorators are functions which will not change the functionality of other functions	Decorators prevents you to make simple modifications to callable objects like functions	0
+232	233	234	PEP 8: a set of rules to format and improve codes readability.	 a document that tell us to provide the guidelines on how to write the Python code is PEP8	1
+233	234	235	A dictionary consists of a collection of index-value pairs. Each index-value pair maps the key to its associated value	A dictionary is a collection which is ordered, changeable and they have index and values	0
+234	235	236	list element and size can be changed(mutable), but a tuple cannot	The difference between list and tuple is that a list is immutable while tuple is not	0
+235	236	237	Decorators allow you to make simple modifications to callable objects like functions	Decorators are functions which will not change the functionality of other functions	0
+236	237	238	Decorators are functions which modify the functionality of other functions	Python has an interesting feature called decorators to delete functionality to an existing code	0
+237	238	239	 Set can be defined as the ordered collection of various items 	a set is a data structure that stores ordered items	0
+238	239	240	"Django is a free and open source web application framework written in Python,which follows the model-view-template (MVT) architectural 
+"	Django is a web framework built with the Python programming language	1
+239	240	241	A dictionary is a collection which is ordered, changeable and they have index and values	 A Python dictionary is a mapping of similar keys to values. Dictionaries are mutable, which means they can be changed	0
+240	241	242	prevent data from direct modification which is called encapsulation	allow  data from direct modification which is called encapsulation	0
+241	242	243	polymorphism means different function name (but different signatures) being uses for  different types	polymorphism means different function name (but different signatures) being uses for different types	0
+242	243	244	The slice() constructor creates a slice object representing the set of indices specified by range(start, stop, step)	A slice object is used to specify how to slice a sequence. You can specify where to start the slicing, and where to end. You can also specify the step, which allows you to e.g. slice only every other item.	1
+243	244	245	 A Python dictionary is a mapping of unique keys to values. Dictionaries are mutable, which means they can be changed	A dictionary is a collection which is ordered, changeable and they have index and values	0
+244	245	246	 a document that tell us to provide the guidelines on how to write the java code is PEP8	PEP 8 is defined as a document that helps us to provide the guidelines on how to write the java code	0
+245	246	247	a set is a data structure that stores unordered items	 Set can be defined as the unordered collection of various items 	1
+246	247	248	Abstraction means hiding the complexity and only showing the essential features of the object	Abstraction means, showcasing only the required things to the outside world while showing the details.	0
+247	248	249	Inheritance allows us to define a class that inherits all the methods and properties from same class	Python inheritance means creating a new class that inherits all functionalities from any class & allows to add more	0
+248	249	250	Python is an interpreted, high-level, general-purpose programming language	Python is an close-source programming language that is low level and works as a general purpose language	0
+249	250	251	Python is a widely used general-purpose, dynamic, extensible, high-level programming language	Python is an open-source programming language that is high level and works as a general purpose language	1
+250	251	252	map() function returns a list of the results after applying the given function to each item of a given iterable (list, tuple etc.)	The map() function calls the any function for each item of an iterable	0
+251	252	253	List is a mutable, or changeable, ordered sequence of element	Lists are immutable i.e they can not be edited	0
+252	253	254	map() function returns a list of the results after applying the given function to each item of a given iterable (list, tuple etc.)	The map() function calls the specified function for each item of an iterable	1
+253	254	255	A slice object is used to specify how to slice a sequence. You can specify where to start the slicing, and where to end. You can also specify the step, which allows you to e.g. slice only every other item.	A slice object is used to specify how to join a sequence. You can specify where to start the join, and where to end. You can also specify the step, which allows you to e.g. join only every other item.	0
+254	255	256	Pickling - is the process whereby a Python object hierarchy is converted into a byte stream	The Python pickle is defined as a module which accepts any Python object and converts it into a analog representation.	0
+255	256	257	Lists are mutable i.e they can be edited whereas Tuples are immutable 	The difference between list and tuple is that a list is mutable while tuple is not	1
+256	257	258	The module pdb defines an interactive source code debugger for Python programs.	Python has a built-in debugger called pdb	1
+257	258	259	Polymorphism means that different types respond to the same function	Polymorphism is the concept where an object behaves differently in different situations	1
+258	259	260	A list is a collection which is unordered and unchangeable.	Lists are immutable i.e they can not be edited	0
+259	260	261	The map() built-in function returns an value or after applying the function to each item in the sequence	map() function returns a dictionary of the results after applying the given function to each item of a given iterable (list, tuple etc.)	0
+260	261	262	Lambda is a single expression anonymous function often used as inline function	lambda functions is very small and consists of only one expression	1
+261	262	263	A dictionary consists of a collection of key-value pairs. Each key-value pair maps the key to its associated value	A dictionary consists of a collection of index-value pairs. Each index-value pair maps the key to its associated value	0
+262	263	264	Virtual environment  is a tool which allows us to make isolated python environments	 virtual environment  is used to create an unisolated workspace for a Python application.	0
+263	264	265	Pickling - is the process whereby a Python object hierarchy is converted into a byte stream	pickling :used to convert python object  into a analog stream 	0
+264	265	266	PIP is a package manager for installing  Python packages	Pip is a package management system, used to install and manage software packages written in Python	1
+265	266	267	SET is unordered collections of unique elements	SET is unordered collections of unique elements	0
+266	267	268	SET is unordered collections of unique elements	 Set can be defined as the ordered collection of various items 	0
+267	268	269	Encapsulation is the packing of data and functions operating on that data into a double component and allowing the access to some of the object's components	 Encapsulation. In an object oriented python program, you can allow access to methods and variables. This can allow the data from being modified by accident and is known as encapsulation	0
+268	269	270	map() function returns a list of the results after applying the given function to each item of a given iterable (list, tuple etc.)	map() function returns a dictionary of the results after applying the given function to each item of a given iterable (list, tuple etc.)	0
+269	270	271	virtual environment will keep different project environments isolated	Virtual environment  is a tool which allows us to make isolated python environments	1
+270	271	272	PEP 8 is a coding convention, a set of recommendation, about how to write your Python code more readable.	PEP 8 is defined as a document that helps us to provide the guidelines on how to write the java code	0
+271	272	273	Map applies a function to all the items in an input_list	The map() built-in function returns an iterator after applying the function to each item in the sequence	1
+272	273	274	the child class inherits the attributes and methods of the child class	Python inheritance means creating a new class that inherits all functionalities from any class & allows to add more	0
+273	274	275	list element and size can be unchanged(immutable), but a tuple cannot	The difference between list and tuple is that a list is immutable while tuple is not	0
+274	275	276	Python has a built-in debugger called pdb	pdb, short for java debugger is a standard built-in module used to debug java code interactively	0
+275	276	277	"Django is a free and open source web application framework written in Python,which follows the model-view-template (MVT) architectural 
+"	 Django is an MVT game framework used to build game applications	0
+276	277	278	 a class is derived from another class inheriting its features.	Python inheritance means creating a new class that inherits all functionalities from parent class & allows to add more	1
+277	278	279	Map applies a function to all the items in an input_list	The map() function calls the specified function for each item of an iterable	1
+278	279	280	List is a mutable, or changeable, ordered sequence of element	A list is a collection which is unordered and unchangeable.	0
+279	280	281	collection  of elements which are ordered and can be changed is defined as list	List is a mutable, or changeable, ordered sequence of element	1
+280	281	282	Encapsulation means wrapping the implementation of data member and methods inside a class	 Encapsulation. In an object oriented python program, you can restrict access to methods and variables. This can prevent the data from being modified by accident and is known as encapsulation	1
+281	282	283	PEP 8 is defined as a document that helps us to provide the guidelines on how to write the Python code	 a document that tell us to provide the guidelines on how to write the Python code is PEP8	1
+282	283	284	A Python tuple is just like a list of a sequence of immutable objects	the tuples are mutable	0
+283	284	285	Encapsulation means wrapping the implementation of data member and methods inside a class	allow  data from direct modification which is called encapsulation	0
+284	285	286	Django is a low-level java Web framework that encourages rapid development and clean, pragmatic design	 Django is an MVT game framework used to build game applications	0
+285	286	287	Polymorphism means that different types respond to the same function	polymorphism means same function name (but different signatures) being uses for different types	1
+286	287	288	polymorphism means same function name (but different signatures) being uses for different types	Polymorphism is the concept where an object behaves same in different  situations	0
+287	288	289	 lists are mutable whereas tuples are mutable	list element and size can be unchanged(immutable), but a tuple cannot	0
+288	289	290	 Django is an MVT web framework used to build web applications	Django is a web framework built with the Python programming language	1
+289	290	291	Abstraction show  the background details and emphasizes the essential data points for reducing the complexity and increase efficiency	Abstraction is used to hide external details and show only functionalities.	0
+290	291	292	Python has an interesting feature called decorators to add functionality to an existing code	Decorators prevents you to make simple modifications to callable objects like functions	0
+291	292	293	A mechanism to select a range of items from sequence types like list, tuple, strings etc. is known as slicing.	slice=[start index,end index,step] and join the elements from start to end index	0
+292	293	294	a set is a data structure that stores unordered items	 Set can be defined as the ordered collection of various items 	0
+293	294	295	prevent data from direct modification which is called encapsulation	Encapsulation is the packing of data and functions operating on that data into a single component and restricting the access to some of the object's components	1
+294	295	296	slice=[start index,end index,step] and retives the elements from start to end index	A mechanism to select a range of items from sequence types like list, tuple, strings etc. is known as slicing.	1
+295	296	297	list element and size can be changed(mutable), but a tuple cannot	 lists are mutable whereas tuples are immutable	1
+296	297	298	The difference between list and tuple is that a list is mutable while tuple is not	 lists are mutable whereas tuples are immutable	1
+297	298	299	PEP 8 is a coding convention, a set of recommendation, about how to write your Python code more readable.	 a document that tell us to provide the guidelines on how to write the Python code is PEP8	1
+298	299	300	Pickling - is the process whereby a Python object hierarchy is converted into a byte stream	The Python pickle is defined as a module which accepts any Python object and converts it into a string representation.	1
+299	300	301	"Django is a free and open source web application framework written in Python,which follows the model-view-template (MVT) architectural 
+"	Django is a web framework built with the java programming language	0
+300	301	302	 Set can be defined as the unordered collection of various items 	 Set can be defined as the ordered collection of various items 	0
+301	302	303	Lambda is a single expression unanonymous function often used as inline function	lambda functions is very small and consists of only two expression	0
+302	303	304	PEP 8: a set of rules to format and improve codes readability.	PEP 8 is defined as a document that helps us to provide the guidelines on how to write the java code	0
+303	304	305	the tuples cannot be changed 	tuples are used to store mutable object	0
+304	305	306	slice=[start index,end index,step] and retives the elements from start to end index	slice=[start index,end index,step] and join the elements from start to end index	0
+305	306	307	 Django is an MVT web framework used to build web applications	Django is a web framework built with the java programming language	0
+306	307	308	A dictionary is a collection which is unordered, changeable and they have keys and values	A dictionary consists of a collection of key-value pairs. Each key-value pair maps the key to its associated value	1
+307	308	309	Pip is a python package management system which can also be used to install various software written in python	Pip is a package management system, used to install and unmanage software packages written in Python	0
+308	309	310	polymorphism means same function name (but different signatures) being uses for different types	Polymorphism is the concept where an object behaves same in different  situations	0
+309	310	311	PEP 8 is a coding convention, a set of recommendation, about how to write your Python code more readable.	PEP 8: a set of rules to format and improve codes readability.	1
+310	311	312	The difference between list and tuple is that a list is mutable while tuple is not	 lists are mutable whereas tuples are mutable	0
+311	312	313	Lists are immutable i.e they can not be edited	List is a immutable, or changeable, ordered sequence of element	0
+312	313	314	Abstraction means, showcasing only the required things to the outside world while hiding the details.	Abstraction means, showcasing only the required things to the outside world while showing the details.	0
+313	314	315	Pickling - is the process whereby a Python object hierarchy is converted into a byte stream	Pip is a package management system, used to install and manage software packages written in Python	1
+314	315	316	Encapsulation means wrapping the implementation of data member and methods inside a class	Encapsulation is the packing of data and functions operating on that data into a double component and allowing the access to some of the object's components	0
+315	316	317	 a document that tell us to provide the guidelines on how to write the Python code is PEP8	PEP 8 is defined as a document that helps us to provide the guidelines on how to write the java code	0
+316	317	318	Python has a built-in debugger called pdb	java has a built-in debugger called pdb	0
+317	318	319	tuples are used to store immutable object	tuples are used to store mutable object	0
+318	319	320	virtual environment will keep different project environments isolated	A virtual environment is a tool that helps to keep dependencies required by different projects separate by creating unisolated python virtual environments for them	0
+319	320	321	Polymorphism means that different types respond to the same function	polymorphism means same function name (but different signatures) being uses for different types	1
+320	321	322	A Set is an unordered collection data type that is iterable, mutable, and has no duplicate elements	SET is unordered collections of unique elements	0
+321	322	323	Django is a web framework built with the Python programming language	Django is a low-level java Web framework that encourages rapid development and clean, pragmatic design	0
+322	323	324	A dictionary is a collection which is unordered, changeable and they have keys and values	 A Python dictionary is a mapping of unique keys to values. Dictionaries are mutable, which means they can be changed	1
+323	324	325	Abstraction  hides the background details and emphasizes the essential data points for reducing the complexity and increase efficiency	Abstraction show  the background details and emphasizes the essential data points for reducing the complexity and increase efficiency	0
+324	325	326	Python has a built-in debugger called pdb	pdb implements an interactive debugging environment for Python programs	1
+325	326	327	a set is a data structure that stores unordered items	a set is a data structure that stores ordered items	0
+326	327	328	Django is a high-level Python Web framework that encourages rapid development and clean, pragmatic design	Django is a web framework built with the Python programming language	1
+327	328	329	Polymorphism is the concept where an object behaves same in different  situations	polymorphism means different function name (but different signatures) being uses for different types	0
+328	329	330	Abstraction  hides the background details and emphasizes the essential data points for reducing the complexity and increase efficiency	Abstraction means, showcasing only the required things to the outside world while showing the details.	0
+329	330	331	Lambda is a single expression anonymous function often used as inline function	lambda functions is very small and consists of only two expression	0
+330	331	332	PEP 8 is a coding convention, a set of recommendation, about how to write your Python code more readable.	 a document that tell us to provide the guidelines on how to write the java code is PEP8	0
+331	332	333	A lambda function is a small anonymous function,but can only have one expression	lambda functions is very small and consists of only two expression	0
+332	333	334	Abstraction is used to hide internal details and show only functionalities.	Abstraction show  the background details and emphasizes the essential data points for reducing the complexity and increase efficiency	0
+333	334	335	Pip is a python package management system which can also be used to install various software written in python	Pip is a package management system, used to install and manage software packages written in Python	1
+334	335	336	 a document that tell us to provide the guidelines on how to write the Python code is PEP8	 a document that tell us to provide the guidelines on how to write the java code is PEP8	0
+335	336	337	pdb, short for java debugger is a standard built-in module used to debug java code interactively	pdb implements an interactive debugging environment for java programs	0
+336	337	338	A Python decorator is a specific change that we make in Python syntax to alter functions easily	Decorators are functions which modify the functionality of other functions	1
+337	338	339	The map() built-in function returns an iterator after applying the function to each item in the sequence	The map() built-in function returns an value or after applying the function to each item in the sequence	0
+338	339	340	 Encapsulation. In an object oriented python program, you can restrict access to methods and variables. This can prevent the data from being modified by accident and is known as encapsulation	 Encapsulation. In an object oriented python program, you can allow access to methods and variables. This can allow the data from being modified by accident and is known as encapsulation	0
+339	340	341	A dictionary is a collection which is unordered, changeable and they have keys and values	A dictionary consists of a collection of index-value pairs. Each index-value pair maps the key to its associated value	0
+340	341	342	Decorators allow you to make simple modifications to callable objects like functions	Decorators are functions which modify the functionality of other functions	1
+341	342	343	Dictionary in Python is an mutable, unordered collection of data values,Dictionary holds key:value pair.	A dictionary consists of a collection of key-value pairs. Each key-value pair maps the key to its associated value	1
+342	343	344	A dictionary consists of a collection of key-value pairs. Each key-value pair maps the key to its associated value	A dictionary is a collection which is ordered, changeable and they have index and values	0
+343	344	345	A list is a collection which is ordered and changeable.	A list is a collection which is unordered and unchangeable.	0
+344	345	346	Polymorphism is the concept where an object behaves differently in different situations	polymorphism means different function name (but different signatures) being uses for different types	0
+345	346	347	the child class inherits the attributes and methods of the parent class	the child class inherits the attributes and methods of the child class	0
+346	347	348	tuples are used to store immutable object	the tuples are mutable	0
+347	348	349	map() function returns a list of the results after applying the given function to each item of a given iterable (list, tuple etc.)	The map() built-in function returns an value or after applying the function to each item in the sequence	0
+348	349	350	Small anonymous functions can be created with the lambda keyword	lambda functions is very small and consists of only two expression	0
+349	350	351	a set is a data structure that stores unordered items	SET is unordered collections of unique elements	1
+350	351	352	allow  data from direct modification which is called encapsulation	 Encapsulation. In an object oriented python program, you can allow access to methods and variables. This can allow the data from being modified by accident and is known as encapsulation	0
+351	352	353	"Django is a free and open source web application framework written in Python,which follows the model-view-template (MVT) architectural 
+"	Django is a low-level java Web framework that encourages rapid development and clean, pragmatic design	0
+352	353	354	PEP 8 is defined as a document that helps us to provide the guidelines on how to write the java code	PEP 8: a set of rules to format and degrades codes readability.	0
+353	354	355	Python has an interesting feature called decorators to delete functionality to an existing code	Decorators prevents you to make simple modifications to callable objects like functions	0
+354	355	356	collection  of elements which are ordered and can be changed is defined as list	A list is a collection which is unordered and unchangeable.	0
+355	356	357	tuples are used to store mutable object	A Python tuple is just like a list of a sequence of mutable objects	0
+356	357	358	Pip is a package management system, used to install and manage software packages written in Python	pickling is define as tool to convert python object  into a analog stream 	0
+357	358	359	A mechanism to select a range of items from sequence types like list, tuple, strings etc. is known as slicing.	A slice object is used to specify how to join a sequence. You can specify where to start the join, and where to end. You can also specify the step, which allows you to e.g. join only every other item.	0
+358	359	360	A mechanism to select a range of items from sequence types like list, tuple, strings etc. is known as slicing.	A mechanism to deselect a range of items from sequence types like list, tuple, strings etc. is known as slicing.	0
+359	360	361	Pickling - is the process whereby a Python object hierarchy is converted into a byte stream	pickling :used to convert python object  into a binary stream 	1
+360	361	362	Lists are mutable i.e they can be edited	List is a immutable, or changeable, ordered sequence of element	0
+361	362	363	Dictionary in Python is an mutable, unordered collection of data values,Dictionary holds key:value pair.	A dictionary is a collection which is unordered, changeable and they have keys and values	1
+362	363	364	A tuple is a sequence of immutable Python objects	the tuples are mutable	0
+363	364	365	A Set is an unordered collection data type that is iterable, mutable, and has no duplicate elements	a set is a data structure that stores ordered items	0
+364	365	366	Abstraction is used to hide internal details and show only functionalities.	Abstraction is used to hide external details and show only functionalities.	0
+365	366	367	A lambda function is a small anonymous function,but can only have one expression	Lambda is a single expression unanonymous function often used as inline function	0
+366	367	368	A tuple is a sequence of immutable Python objects	A Python tuple is just like a list of a sequence of immutable objects	1
+367	368	369	PEP 8 is defined as a document that helps us to provide the guidelines on how to write the Python code	PEP 8: a set of rules to format and improve codes readability.	1
+368	369	370	A list is a collection which is ordered and changeable.	List is a immutable, or changeable, ordered sequence of element	0
+369	370	371	java has a built-in debugger called pdb	pdb implements an interactive debugging environment for java programs	0
+370	371	372	A Python decorator is a specific change that we make in Python syntax to alter functions easily	Decorators prevents you to make simple modifications to callable objects like functions	0
+371	372	373	virtual environment will keep different project environments isolated	virtual environment  is  used to create an isolated workspace for a Python application.	1
+372	373	374	 Django is an MVT web framework used to build web applications	Django is a low-level java Web framework that encourages rapid development and clean, pragmatic design	0
+373	374	375	Python is an interpreted objectoriented programming language	Python is an interpreted, high-level, general-purpose programming language	1
+374	375	376	Python is an interpreted objectoriented programming language	Python is an close-source programming language that is low level and works as a general purpose language	0
+375	376	377	pdb, short for python debugger is a standard built-in module used to debug python code interactively	pdb, short for java debugger is a standard built-in module used to debug java code interactively	0
+376	377	378	A Python decorator is a specific change that we make in Python syntax to alter functions easily	Decorators are functions which will not change the functionality of other functions	0
+377	378	379	Polymorphism means that different types respond to the same function	polymorphism means different function name (but different signatures) being uses for  different types	0
+378	379	380	Encapsulation means wrapping the implementation of data member and methods inside a class	Encapsulation is the packing of data and functions operating on that data into a single component and restricting the access to some of the object's components	1
+379	380	381	Virtual environment  is a tool which allows us to make isolated python environments	A virtual environment is a tool that helps to keep dependencies required by different projects separate by creating unisolated python virtual environments for them	0
+380	381	382	Small unanonymous functions can be created with the lambda keyword	Lambda is a single expression unanonymous function often used as inline function	0
+381	382	383	pdb, short for python debugger is a standard built-in module used to debug python code interactively	java has a built-in debugger called pdb	0
+382	383	384	list element and size can be changed(mutable), but a tuple cannot	 lists are mutable whereas tuples are mutable	0
+383	384	385	Django is a web framework built with the Python programming language	Django is a web framework built with the java programming language	0
+384	385	386	the tuples cannot be changed 	A Python tuple is just like a list of a sequence of mutable objects	0
+385	386	387	PIP is a package manager for installing  Python packages	 pip command is a tool for uninstalling and managing Python packages	0
+386	387	388	pdb implements an interactive debugging environment for Python programs	pdb, short for python debugger is a standard built-in module used to debug python code interactively	1
+387	388	389	A virtual environment is a tool that helps to keep dependencies required by different projects separate by creating unisolated python virtual environments for them	Virtual environment  is a tool which prevents us to make isolated python environments	0
+388	389	390	The slice() constructor creates a slice object representing the set of indices specified by range(start, stop, step)	A slice object is used to specify how to join a sequence. You can specify where to start the join, and where to end. You can also specify the step, which allows you to e.g. join only every other item.	0
+389	390	391	polymorphism means same function name (but different signatures) being uses for different types	Polymorphism is the concept where an object behaves differently in different situations	1
+390	391	392	a set is a data structure that stores unordered items	SET is unordered collections of unique elements	0
+391	392	393	virtual environment will keep different project environments isolated	 virtual environment  is used to create an unisolated workspace for a Python application.	0
+392	393	394	 pip command is a tool for installing and managing Python packages	 pip command is a tool for uninstalling and managing Python packages	0
+393	394	395	collection  of elements which are ordered and can be changed is defined as list	Lists are mutable i.e they can be edited	1
+394	395	396	pickling :used to convert python object  into a binary stream 	Pip is a package management system, used to install and manage software packages written in Python	1
+395	396	397	Python inheritance means creating a new class that inherits all functionalities from parent class & allows to add more	the child class inherits the attributes and methods of the child class	0
+396	397	398	Abstraction means hiding the complexity and only showing the essential features of the object	Abstraction is used to hide external details and show only functionalities.	0
+397	398	399	Inheritance allows us to define a class that inherits all the methods and properties from another class	the child class inherits the attributes and methods of the child class	0
+398	399	400	virtual environment  is  used to create an isolated workspace for a Python application.	A virtual environment is a tool that helps to keep dependencies required by different projects separate by creating isolated python virtual environments for them	1
+399	400	401	The map() function calls the specified function for each item of an iterable	The map() built-in function returns an iterator after applying the function to each item in the sequence	1
+400	401	402	list element and size can be changed(mutable), but a tuple cannot	The difference between list and tuple is that a list is mutable while tuple is not	1
+401	402	403	Python has a built-in debugger called pdb	pdb, short for python debugger is a standard built-in module used to debug python code interactively	1
+402	403	404	 virtual environment  is used to create an unisolated workspace for a Python application.	Virtual environment  is a tool which prevents us to make isolated python environments	0
+403	404	405	The difference between list and tuple is that a list is mutable while tuple is not	list element and size can be unchanged(immutable), but a tuple cannot	0
+404	405	406	Lists are mutable i.e they can be edited whereas Tuples are immutable 	list element and size can be changed(mutable), but a tuple cannot	1
+405	406	407	the child class inherits the attributes and methods of the parent class	Inheritance allows us to define a class that inherits all the methods and properties from same class	0
+406	407	408	Polymorphism is the concept where an object behaves differently in different situations	Polymorphism is the concept where an object behaves same in different  situations	0
+407	408	409	Python is an interpreted objectoriented programming language	Python is an open-source programming language that is high level and works as a general purpose language	1
+408	409	410	The map() function calls the specified function for each item of an iterable	map() function returns a dictionary of the results after applying the given function to each item of a given iterable (list, tuple etc.)	0
+409	410	411	 a document that tell us to provide the guidelines on how to write the Python code is PEP8	PEP 8: a set of rules to format and degrades codes readability.	0
+410	411	412	A dictionary consists of a collection of key-value pairs. Each key-value pair maps the key to its associated value	 A Python dictionary is a mapping of similar keys to values. Dictionaries are mutable, which means they can be changed	0
+411	412	413	Python inheritance means creating a new class that inherits all functionalities from parent class & allows to add more	Python inheritance means creating a new class that inherits all functionalities from any class & allows to add more	0
+412	413	414	Encapsulation is the packing of data and functions operating on that data into a single component and restricting the access to some of the object's components	Encapsulation is the packing of data and functions operating on that data into a double component and allowing the access to some of the object's components	0
+413	414	415	pickling :used to convert python object  into a binary stream 	The Python pickle is defined as a module which accepts any Python object and converts it into a string representation.	1
+414	415	416	PIP is a package manager for installing  Python packages	Pip is a python package management system which can also be used to uninstall various software written in python	0
+415	416	417	 Set can be defined as the unordered collection of various items 	SET is unordered collections of unique elements	0
+416	417	418	 A Python dictionary is a mapping of unique keys to values. Dictionaries are mutable, which means they can be changed	 A Python dictionary is a mapping of similar keys to values. Dictionaries are mutable, which means they can be changed	0
+417	418	419	the tuples cannot be changed 	the tuples are mutable	0
+418	419	420	Python is a widely used general-purpose, dynamic, extensible, high-level programming language	Python is an interpreted, high-level, general-purpose programming language	1
+419	420	421	Django is a web framework built with the java programming language	Django is a low-level java Web framework that encourages rapid development and clean, pragmatic design	0

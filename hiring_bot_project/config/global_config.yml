@@ -1,0 +1,28 @@
+inference_bert:
+  bert_model: bert-base-uncased
+  labels: labels.txt
+  max_seq_length: 64
+  num_labels: 2
+  output_model_file: ./recuiter/model-trained-on-python-questions/pytorch_model.bin
+train_bert:
+  bert_model: bert-base-uncased
+  data_dir: ./recuiter/train-dev-tsv-dataset-for-training/
+  do_eval: false
+  do_lower_case: true
+  do_train: true
+  eval_batch_size: 8
+  fp16: false
+  gradient_accumulation_steps: 1
+  labels: labels.txt
+  learning_rate: 2e-5
+  local_rank: -1
+  loss_scale: 0
+  max_seq_length: 64
+  model_file: ./recuiter/plain_qqp_trained_model/pytorch_model.bin
+  no_cuda: false
+  num_train_epochs: '1'
+  output_dir: ./recuiter/model-trained-on-python-questions/
+  seed: 42
+  task_name: qqp
+  train_batch_size: 8
+  warmup_proportion: 0.1

@@ -1,0 +1,44 @@
+{% extends "front_end/base.html" %}
+
+{% block content %}
+
+<div class="col-md-6" style="margin-top:-15px;margin-left:20%;">
+          <!-- general form elements -->
+          <div class="box box-primary">
+            <div class="box-header with-border">
+                <p><h3><b>Python Questions</b></h3></p>
+            </div>
+            <!-- /.box-header -->
+            <!-- form start -->
+            <form role="form" method="GET"  autocomplete="Off" action="{% url 'prediction' %}">
+              <div class="box-body">
+                <div class="form-group">
+                  <label><h4>what is list ?</h4></label>
+                  <textarea type="textarea" class="form-control" name="Q1"></textarea>
+                </div>
+                <div class="form-group">
+                  <label><h4>What is tuple?</h4></label>
+                  <textarea type="textarea" class="form-control" name="Q2"></textarea>
+                </div>
+                <div class="form-group">
+                  <label><h4>what is dictionary?</h4></label>
+                  <textarea type="textarea" class="form-control" name="Q3"></textarea>
+                </div>
+                <div class="form-group">
+                  <label><h4>what is lambda function?</h4></label>
+                  <textarea type="textarea" class="form-control" name="Q4"></textarea>
+                </div>
+                <div class="form-group">
+                  <label><h4>what is decorator?</h4></label>
+                  <textarea type="textarea" class="form-control" name="Q5"></textarea>
+                </div>
+              </div>
+              <!-- /.box-body -->
+
+              <div class="box-footer">
+                <button type="submit" class="btn btn-primary">Submit</button>
+              </div>
+            </form>
+          </div>
+</div>
+{% endblock %}

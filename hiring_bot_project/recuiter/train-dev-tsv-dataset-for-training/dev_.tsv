@@ -1,0 +1,20 @@
+500	401	402	list element and size can be changed(mutable), but a tuple cannot	list element and size can be unchanged(immutable), but a tuple cannot	0
+501	402	403	tuples are used to store immutable object	A Python tuple is just like a list of a sequence of mutable objects	0
+502	403	404	lambda functions is very small and consists of only one expression	lambda functions is very small and consists of only two expression	0
+503	404	405	Decorators are functions which modify the functionality of other functions	Decorators prevents you to make simple modifications to callable objects like functions	0
+504	405	406	polymorphism means same function name (but different signatures) being uses for different types	polymorphism means different function name (but different signatures) being uses for  different types	0
+505	406	407	 pip command is a tool for uninstalling and managing Python packages	Pip is a python package management system which can also be used to uninstall various software written in python	0
+506	407	408	Encapsulation means wrapping the implementation of data member and methods inside a class	 Encapsulation. In an object oriented python program, you can restrict access to methods and variables. This can prevent the data from being modified by accident and is known as encapsulation	1
+507	408	409	Django is a high-level Python Web framework that encourages rapid development and clean, pragmatic design	 Django is an MVT game framework used to build game applications	0
+508	409	410	Pip is a python package management system which can also be used to install various software written in python	 pip command is a tool for uninstalling and managing Python packages	0
+509	410	411	Pip is a python package management system which can also be used to install various software written in python	Pip is a python package management system which can also be used to uninstall various software written in python	0
+510	411	412	A tuple is a sequence of immutable Python objects	the tuples are mutable	0
+511	412	413	Decorators allow you to make simple modifications to callable objects like functions	Python has an interesting feature called decorators to delete functionality to an existing code	0
+512	413	414	 lists are mutable whereas tuples are immutable	The difference between list and tuple is that a list is immutable while tuple is not	0
+513	414	415	A dictionary consists of a collection of index-value pairs. Each index-value pair maps the key to its associated value	A dictionary is a collection which is ordered, changeable and they have index and values	0
+514	415	416	a set is a data structure that stores unordered items	a set is a data structure that stores ordered items	0
+515	416	417	SET is unordered collections of unique elements	 Set can be defined as the unordered collection of various items 	1
+516	417	418	 pip command is a tool for installing and managing Python packages	Pip is a python package management system which can also be used to uninstall various software written in python	0
+517	418	419	polymorphism means same function name (but different signatures) being uses for different types	Polymorphism is the concept where an object behaves same in different  situations	0
+518	419	420	  collection  of elements which are ordered and can be changed is defined as list	Lists are immutable i.e they can not be edited	0
+519	420	421	Django is a web framework built with the java programming language	 Django is an MVT game framework used to build game applications	0

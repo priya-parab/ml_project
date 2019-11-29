@@ -1,0 +1,159 @@
+{% extends "front_end/base.html" %}
+
+{% block head %}
+<style>
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 2;
+}
+
+</style>
+{% endblock %}
+
+
+{% block content %}
+<div style="margin:20px;">
+<!--  {{html_table}}-->
+<table>
+  <tr>
+    <td style="padding-left:15px;">
+  {% for key,data in html_table.items %}
+     <p style="margin-left:15px;">
+       {% if data.0 == 1 %}
+       <p><h4 style="color:green" >Correct</h4></p>
+       {% endif %}
+       {% if data.0 == 0 %}
+       <p><h4 style="color:Red">Incorrect</h4></p>
+       {% endif %}
+      {% if data.0 != 0 and data.0 != 1 %}
+       {% if key == 'Questions' %}
+        <p><h4 >Q. {{data.0}} ?</h4></p>
+       {% else %}
+        <p><h4 >A. {{data.0}}</h4></p>
+        {% endif %}
+       {% endif %}
+     </p>
+        {% endfor %}
+    </td>
+  </tr>
+
+  <tr>
+     <td style="padding-left:15px;">
+  {% for key,data in html_table.items %}
+     <p style="margin-left:15px;">
+       {% if data.1 == 1 %}
+       <p><h4 style="color:green" >Correct</h4></p>
+       {% endif %}
+       {% if data.1 == 0 %}
+       <p><h4 style="color:Red" >Incorrect</h4></p>
+       {% endif %}
+      {% if data.1 != 0 and data.1 != 1 %}
+        {% if key == 'Questions' %}
+        <p><h4 >Q. {{data.1}} ?</h4></p>
+       {% else %}
+        <p><h4 >A. {{data.1}}</h4></p>
+        {% endif %}
+       {% endif %}
+     </p>
+  {% endfor %}
+  </td>
+ </tr>
+
+  <tr>
+    <td style="padding-left:15px;">
+  {% for key,data in html_table.items %}
+     <p style="margin-left:15px;">
+       {% if data.2 == 1 %}
+       <p><h4 style="color:green" >Correct</h4></p>
+       {% endif %}
+       {% if data.2 == 0 %}
+       <p><h4 style="color:Red">Incorrect</h4></p>
+       {% endif %}
+      {% if data.2 != 0 and data.2 != 1 %}
+        {% if key == 'Questions' %}
+        <p><h4 >Q. {{data.2}} ?</h4></p>
+       {% else %}
+        <p><h4 >A. {{data.2}}</h4></p>
+        {% endif %}
+       {% endif %}
+     </p>
+  {% endfor %}
+  </td>
+ </tr>
+
+  <tr>
+    <td style="padding-left:15px;">
+  {% for key,data in html_table.items %}
+     <p style="margin-left:15px;">
+       {% if data.3 == 1 %}
+       <p><h4 style="color:green" >Correct</h4></p>
+       {% endif %}
+       {% if data.3 == 0 %}
+       <p><h4 style="color:Red">Incorrect</h4></p>
+       {% endif %}
+      {% if data.3 != 0 and data.3 != 1 %}
+        {% if key == 'Questions' %}
+        <p><h4 >Q. {{data.3}} ?</h4></p>
+       {% else %}
+        <p><h4 >A. {{data.3}}</h4></p>
+        {% endif %}
+       {% endif %}
+     </p>
+  {% endfor %}
+   </td>
+ </tr>
+
+  <tr>
+    <td style="padding-left:15px;">
+  {% for key,data in html_table.items %}
+     <p style="margin-left:15px;">
+       {% if data.4 == 1 %}
+       <p><h4 style="color:green" >Correct</h4></p>
+       {% endif %}
+       {% if data.4 == 0 %}
+       <p><h4 style="color:Red">Incorrect</h4></p>
+       {% endif %}
+      {% if data.4 != 0 and data.4 != 1 %}
+        {% if key == 'Questions' %}
+        <p><h4 >Q. {{data.4}} ?</h4></p>
+       {% else %}
+        <p><h4 >A. {{data.4}}</h4></p>
+        {% endif %}
+       {% endif %}
+     </p>
+  {% endfor %}
+  </td>
+ </tr>
+ </table>
+
+    <div style="margin-top:20px;">
+        {{table|safe}}
+    </div>
+
+    <h1>Scores:</h1>
+    <table>
+  <tr>
+    <th style="padding:3px;">Name</th>
+    <th style="padding:3px;">Technology</th>
+    <th style="padding:3px;">Marks obtained</th>
+    <th style="padding:3px;">Total</th>
+    <th style="padding:3px;">Score in percent</th>
+  </tr>
+  <tr>
+    <td style="padding:3px;">{{user.full_name}}</td>
+    <td style="padding:3px;">Python</td>
+    <td style="padding:3px;">{{Marks}}</td>
+    <td style="padding:3px;">{{Total}}</td>
+    <td style="padding:3px;">{{score}}</td>
+  </tr>
+</table>
+
+</div>
+{% endblock %}

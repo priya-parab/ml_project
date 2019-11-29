@@ -1,0 +1,79 @@
+{% extends "back_end/admin.html" %}
+
+{% block head %}
+<style>
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+th, td {
+  padding: 5px;
+  text-align: left;
+}
+</style>
+{% endblock %}
+
+{% block content %}
+<div style="margin:25px;">
+<h2>Format</h2>
+
+    <table style="width:100%">
+      <tr>
+        <th>ID</th>
+        <th>Question</th>
+        <th>Right_answer1</th>
+        <th>Right_answer2</th>
+        <th>Right_answer3</th>
+        <th>Wrong_answer1</th>
+        <th>Wrong_answer2</th>
+        <th>Wrong_answer3</th>
+      </tr>
+      <tr>
+        <td>1</td>
+        <td>what is list</td>
+        <td>collection  of elements which are ordered and can be changed is defined as list</td>
+        <td>List is a mutable, or changeable, ordered sequence of element</td>
+        <td>Lists are mutable i.e they can be edited</td>
+        <td>A list is a collection which is unordered and unchangeable</td>
+        <td>Lists are immutable i.e they can not be edited</td>
+        <td>List is a immutable, or changeable, ordered sequence of element</td>
+      </tr>
+      <tr>
+        <td>2</td>
+        <td>what is tuple</td>
+        <td>A tuple is a sequence of immutable Python objects</td>
+        <td>tuples are used to store immutable object</td>
+        <td>A Python tuple is just like a list of a sequence of immutable objects</td>
+        <td>the tuples are mutable</td>
+        <td>tuples are used to store mutable object</td>
+        <td>A Python tuple is just like a list of a sequence of mutable objects</td>
+      </tr>
+      <tr>
+        <td>3</td>
+        <td>what is dictionary</td>
+        <td>A dictionary is a collection which is unordered, changeable and they have keys and values</td>
+        <td>Dictionary in Python is an mutable, unordered collection of data values,Dictionary holds key:value pair.</td>
+        <td> A Python dictionary is a mapping of unique keys to values. Dictionaries are mutable, which means they can be changed</td>
+        <td>A dictionary consists of a collection of index-value pairs. Each index-value pair maps the key to its associated value</td>
+        <td>A dictionary is a collection which is ordered, changeable and they have index and values</td>
+        <td> A Python dictionary is a mapping of similar keys to values. Dictionaries are mutable, which means they can be changed</td>
+      </tr>
+    </table>
+
+    <form action="{% url 'convert_to_qqp' %}" enctype="multipart/form-data" method="post" style="margin-top:30px;">{% csrf_token %}
+      <b><h4>Select files:</h4></b> <input type="file" name="my_uploaded_file">
+        <input type="submit" value="Upload" style="margin-top:10px;">
+    </form>
+</div>
+<div>
+{% if messages %}
+         <div class="alert alert-success alert-dismissible" style="margin-left:15px;margin-right:15px;">
+         <button type="button" class="close" data-dismiss="alert" aria-hidden="true">&times;</button>
+             {% for message in messages %}
+             {{message}}
+             {% endfor %}
+         </div>
+{% endif %}
+</div>
+
+{% endblock %}

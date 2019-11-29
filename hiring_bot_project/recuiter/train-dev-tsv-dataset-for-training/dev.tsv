@@ -1,0 +1,86 @@
+384	385	386	the tuples cannot be changed 	the tuples are mutable	0
+250	251	252	A lambda function is a small anonymous function,but can only have one expression	lambda functions is very small and consists of only one expression	1
+148	149	150	A virtual environment is a tool that helps to keep dependencies required by different projects separate by creating isolated python virtual environments for them	 virtual environment  is used to create an unisolated workspace for a Python application.	0
+12	13	14	Polymorphism means that different types respond to the same function	polymorphism means same function name (but different signatures) being uses for different types	1
+233	234	235	pdb implements an interactive debugging environment for Python programs	java has a built-in debugger called pdb	0
+380	381	382	The module pdb defines an interactive source code debugger for Python programs.	java has a built-in debugger called pdb	0
+190	191	192	PEP 8: a set of rules to format and improve codes readability.	PEP 8 is defined as a document that helps us to provide the guidelines on how to write the java code	0
+416	417	418	List is a mutable, or changeable, ordered sequence of element	A list is a collection which is ordered and changeable.	1
+160	161	162	Lambda is a single expression anonymous function often used as inline function	lambda functions is very small and consists of only two expression	0
+98	99	100	pickling :used to convert python object  into a binary stream 	Pip is a package management system, used to install and manage software packages written in Python	1
+140	141	142	Dictionary in Python is an mutable, unordered collection of data values,Dictionary holds key:value pair.	A dictionary is a collection which is ordered, changeable and they have index and values	0
+311	312	313	The map() function calls the specified function for each item of an iterable	The map() built-in function returns an iterator after applying the function to each item in the sequence	1
+117	118	119	Python inheritance means creating a new class that inherits all functionalities from parent class & allows to add more	Python inheritance means creating a new class that inherits all functionalities from any class & allows to add more	0
+17	18	19	Django is a web framework built with the Python programming language	Django is a low-level java Web framework that encourages rapid development and clean, pragmatic design	0
+350	351	352	The module pdb defines an interactive source code debugger for Python programs.	pdb, short for java debugger is a standard built-in module used to debug java code interactively	0
+89	90	91	Polymorphism is the concept where an object behaves differently in different situations	polymorphism means different function name (but different signatures) being uses for different types	0
+192	193	194	"Django is a free and open source web application framework written in Python,which follows the model-view-template (MVT) architectural 
+"	Django is a web framework built with the java programming language	0
+295	296	297	A Python decorator is a specific change that we make in Python syntax to alter functions easily	Python has an interesting feature called decorators to add functionality to an existing code	1
+88	89	90	A list is a collection which is ordered and changeable.	List is a immutable, or changeable, ordered sequence of element	0
+378	379	380	Encapsulation means wrapping the implementation of data member and methods inside a class	 Encapsulation. In an object oriented python program, you can allow access to methods and variables. This can allow the data from being modified by accident and is known as encapsulation	0
+387	388	389	A Set is an unordered collection data type that is iterable, mutable, and has no duplicate elements	SET is unordered collections of unique elements	0
+298	299	300	Abstraction means hiding the complexity and only showing the essential features of the object	Abstraction is used to hide internal details and show only functionalities.	1
+414	415	416	Django is a high-level Python Web framework that encourages rapid development and clean, pragmatic design	Django is a web framework built with the Python programming language	1
+72	73	74	The module pdb defines an interactive source code debugger for Python programs.	pdb implements an interactive debugging environment for java programs	0
+288	289	290	Lists are mutable i.e they can be edited	List is a immutable, or changeable, ordered sequence of element	0
+372	373	374	The map() built-in function returns an iterator after applying the function to each item in the sequence	The map() function calls the any function for each item of an iterable	0
+194	195	196	PEP 8 is defined as a document that helps us to provide the guidelines on how to write the Python code	PEP 8 is defined as a document that helps us to provide the guidelines on how to write the java code	0
+130	131	132	Lists are mutable i.e they can be edited whereas Tuples are immutable 	list element and size can be changed(mutable), but a tuple cannot	1
+111	112	113	Python is an interpreted, high-level, general-purpose programming language	Python is an interpreted objectoriented designing language	0
+19	20	21	polymorphism means same function name (but different signatures) being uses for different types	Polymorphism is the concept where an object behaves same in different  situations	0
+57	58	59	The map() function calls the specified function for each item of an iterable	map() function returns a dictionary of the results after applying the given function to each item of a given iterable (list, tuple etc.)	0
+292	293	294	Lambda is a single expression anonymous function often used as inline function	Lambda is a single expression unanonymous function often used as inline function	0
+96	97	98	Abstraction means hiding the complexity and only showing the essential features of the object	Abstraction  hides the background details and emphasizes the essential data points for reducing the complexity and increase efficiency	1
+317	318	319	Polymorphism is the concept where an object behaves differently in different situations	polymorphism means different function name (but different signatures) being uses for  different types	0
+286	287	288	 lists are mutable whereas tuples are mutable	The difference between list and tuple is that a list is immutable while tuple is not	0
+267	268	269	Abstraction is used to hide internal details and show only functionalities.	Abstraction show  the background details and emphasizes the essential data points for reducing the complexity and increase efficiency	0
+203	204	205	Python inheritance means creating a new class that inherits all functionalities from parent class & allows to add more	Inheritance allows us to define a class that inherits all the methods and properties from another class	1
+346	347	348	pickling :used to convert python object  into a binary stream 	The Python pickle is defined as a module which accepts any Python object and converts it into a string representation.	1
+407	408	409	A virtual environment is a tool that helps to keep dependencies required by different projects separate by creating unisolated python virtual environments for them	 virtual environment  is used to create an unisolated workspace for a Python application.	0
+214	215	216	 A Python dictionary is a mapping of unique keys to values. Dictionaries are mutable, which means they can be changed	 A Python dictionary is a mapping of similar keys to values. Dictionaries are mutable, which means they can be changed	0
+127	128	129	PIP is a package manager for installing  Python packages	Pip is a python package management system which can also be used to install various software written in python	1
+59	60	61	Abstraction means, showcasing only the required things to the outside world while hiding the details.	Abstraction show  the background details and emphasizes the essential data points for reducing the complexity and increase efficiency	0
+187	188	189	Python is a widely used general-purpose, dynamic, extensible, high-level programming language	Python is an interpreted, high-level, general-purpose programming language	1
+216	217	218	Pip is a python package management system which can also be used to install various software written in python	 pip command is a tool for uninstalling and managing Python packages	0
+73	74	75	list element and size can be changed(mutable), but a tuple cannot	The difference between list and tuple is that a list is mutable while tuple is not	1
+221	222	223	Decorators are functions which modify the functionality of other functions	Decorators are functions which will not change the functionality of other functions	0
+173	174	175	A slice object is used to specify how to slice a sequence. You can specify where to start the slicing, and where to end. You can also specify the step, which allows you to e.g. slice only every other item.	A mechanism to select a range of items from sequence types like list, tuple, strings etc. is known as slicing.	1
+217	218	219	 Encapsulation. In an object oriented python program, you can restrict access to methods and variables. This can prevent the data from being modified by accident and is known as encapsulation	allow  data from direct modification which is called encapsulation	0
+389	390	391	A mechanism to select a range of items from sequence types like list, tuple, strings etc. is known as slicing.	A slice object is used to specify how to join a sequence. You can specify where to start the join, and where to end. You can also specify the step, which allows you to e.g. join only every other item.	0
+242	243	244	PEP 8 is a coding convention, a set of recommendation, about how to write your Python code more readable.	PEP 8: a set of rules to format and degrades codes readability.	0
+42	43	44	collection  of elements which are ordered and can be changed is defined as list	Lists are immutable i.e they can not be edited	0
+134	135	136	Decorators allow you to make simple modifications to callable objects like functions	Decorators are functions which modify the functionality of other functions	1
+67	68	69	Python is an open-source programming language that is high level and works as a general purpose language	Python is an interpreted, high-level, general-purpose designing language	0
+114	115	116	Pickling - is the process whereby a Python object hierarchy is converted into a byte stream	pickling :used to convert python object  into a binary stream 	1
+205	206	207	Pip is a package management system, used to install and manage software packages written in Python	pickling is define as tool to convert python object  into a analog stream 	0
+35	36	37	Lists are mutable i.e they can be edited	A list is a collection which is unordered and unchangeable.	0
+379	380	381	SET is unordered collections of unique elements	 Set can be defined as the ordered collection of various items 	0
+299	300	301	A dictionary is a collection which is unordered, changeable and they have keys and values	 A Python dictionary is a mapping of similar keys to values. Dictionaries are mutable, which means they can be changed	0
+412	413	414	pdb, short for python debugger is a standard built-in module used to debug python code interactively	pdb implements an interactive debugging environment for java programs	0
+64	65	66	Python is a widely used general-purpose, dynamic, extensible, high-level programming language	Python is an open-source programming language that is high level and works as a general purpose language	1
+109	110	111	Python has an interesting feature called decorators to add functionality to an existing code	Decorators are functions which modify the functionality of other functions	1
+388	389	390	Lambda is a single expression anonymous function often used as inline function	lambda functions is very small and consists of only one expression	1
+110	111	112	A tuple is a sequence of immutable Python objects	A Python tuple is just like a list of a sequence of mutable objects	0
+41	42	43	Encapsulation is the packing of data and functions operating on that data into a single component and restricting the access to some of the object's components	Encapsulation is the packing of data and functions operating on that data into a double component and allowing the access to some of the object's components	0
+273	274	275	Python is an interpreted objectoriented programming language	Python is an open-source programming language that is high level and works as a general purpose language	1
+33	34	35	Lists are mutable i.e they can be edited	A list is a collection which is ordered and changeable.	1
+193	194	195	Dictionary in Python is an mutable, unordered collection of data values,Dictionary holds key:value pair.	A dictionary is a collection which is unordered, changeable and they have keys and values	1
+404	405	406	 virtual environment  is used to create an unisolated workspace for a Python application.	Virtual environment  is a tool which prevents us to make isolated python environments	0
+220	221	222	A Python decorator is a specific change that we make in Python syntax to alter functions easily	Decorators prevents you to make simple modifications to callable objects like functions	0
+38	39	40	"Django is a free and open source web application framework written in Python,which follows the model-view-template (MVT) architectural 
+"	 Django is an MVT web framework used to build web applications	1
+6	7	8	Pip is a package management system, used to install and manage software packages written in Python	 pip command is a tool for uninstalling and managing Python packages	0
+382	383	384	A Python decorator is a specific change that we make in Python syntax to alter functions easily	Decorators allow you to make simple modifications to callable objects like functions	1
+123	124	125	the child class inherits the attributes and methods of the parent class	Python inheritance means creating a new class that inherits all functionalities from parent class & allows to add more	1
+325	326	327	Map applies a function to all the items in an input_list	The map() built-in function returns an iterator after applying the function to each item in the sequence	1
+31	32	33	A lambda function is a small anonymous function,but can only have one expression	Small unanonymous functions can be created with the lambda keyword	0
+304	305	306	The difference between list and tuple is that a list is mutable while tuple is not	The difference between list and tuple is that a list is immutable while tuple is not	0
+336	337	338	Pip is a python package management system which can also be used to install various software written in python	Pip is a python package management system which can also be used to uninstall various software written in python	0
+155	156	157	virtual environment will keep different project environments isolated	Virtual environment  is a tool which allows us to make isolated python environments	1
+70	71	72	Lists are mutable i.e they can be edited whereas Tuples are immutable 	 lists are mutable whereas tuples are immutable	1
+16	17	18	polymorphism means same function name (but different signatures) being uses for different types	polymorphism means same function name (but different signatures) being uses for different types	1
+5	6	7	PIP is a package manager for installing  Python packages	Pip is a package management system, used to install and unmanage software packages written in Python	0
+229	230	231	A Python tuple is just like a list of a sequence of immutable objects	the tuples cannot be changed 	1
+207	208	209	prevent data from direct modification which is called encapsulation	allow  data from direct modification which is called encapsulation	0
+138	139	140	A mechanism to select a range of items from sequence types like list, tuple, strings etc. is known as slicing.	slice=[start index,end index,step] and join the elements from start to end index	0

@@ -1,0 +1,84 @@
+
+{% extends "back_end/admin.html" %}
+
+{% block head %}
+<style>
+
+</style>
+{% endblock %}
+
+{% block content %}
+<div style="margin:15px;">
+     {% if messages %}
+         <div class="alert alert-success alert-dismissible" style="margin-left:15px;margin-right:15px;">
+         <button type="button" class="close" data-dismiss="alert" aria-hidden="true">&times;</button>
+             {% for message in messages %}
+             {{message}}
+             {% endfor %}
+         </div>
+    {% endif %}
+
+<div class="col-md-8"  >
+    <div class="box box-primary">
+    <div class="box-header with-border">
+      <h3 class="box-title ">Training parameters</h3>
+    </div>
+    <form role="form" id="train_form" method="post" action="{% url 'train' %}" autocomplete="on">{% csrf_token %}
+      <div class="box-body">
+        <div class="form-group">
+          <label>Data Path:</label>
+          <input type="text" class="form-control" name="data_dir" required>
+        </div>
+        <div class="form-group">
+          <label>Number Of Train Epochs :</label>
+          <input type="text" class="form-control" name="num_train_epochs" required>
+        </div>
+
+        <div class="form-group">
+          <label >Ouput Path :</label>
+          <input type="text" class="form-control" name="output_dir" required>
+        </div>
+        <div class="form-group">
+          <label >Trained Model Path :</label>
+          <input type="text" class="form-control" name="model_file" required>
+        </div>
+         <div class="form-group">
+          <label >Output Model Path :</label>
+          <input type="text" class="form-control" name="output_model_file" required>
+        </div>
+      </div>
+      <!-- /.box-body -->
+      <div class="box-footer">
+        <center><a href="{% url 'admin' %}"type="submit" class="btn btn-default">Cancel</a>
+          <button type="submit" class="btn btn-info">Train</button></center>
+      </div>
+    </form>
+    </div>
+</div>
+
+</div>
+
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="http://ajax.microsoft.com/ajax/jquery.validate/1.7/jquery.validate.min.js"></script>
+<script src="https://ajax.aspnetcdn.com/ajax/jquery.validate/1.15.0/additional-methods.js"></script>
+
+<script>
+  $("#train_form").validate({
+  rules: {
+    data_dir: "required",
+    num_train_epochs:  "required",
+    output_dir : "required",
+    model_file: "required",
+    output_model_file: "required",
+  },
+  messages: {
+    data_dir: "This field is required",
+    num_train_epochs :"This field is required,
+    output_dir: "This field is required",
+    model_file: "This field is required",
+    output_model_file:"This field is required"
+  }
+});
+</script>
+{% endblock %}

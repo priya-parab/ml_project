@@ -1,0 +1,66 @@
+{% extends "back_end/admin.html" %}
+
+{% block content %}
+  <h1 style="margin-left:15px">Banners<a style="margin-right:17px;" href="{% url 'banners_create' %}" type="submit" class="btn btn-primary pull-right">Add Banners</a></h1>
+    {% if messages %}
+         <div class="alert alert-success alert-dismissible" style="margin-left:15px;margin-right:15px;">
+         <button type="button" class="close" data-dismiss="alert" aria-hidden="true">&times;</button>
+             {% for message in messages %}
+             {{message}}
+             {% endfor %}
+         </div>
+    {% endif %}
+    <table style="margin:15px 15px 15px 15px;width:97%" class="table">
+      <thead class="thead-light" style="background-color: #dd58c924;" >
+        <tr>
+          <th scope="col">BANNER NAME</th>
+          <th scope="col">BANNER TITLE</th>
+          <th scope="col">BANNER</th>
+          <th scope="col">ACTION</th>
+        </tr>
+      </thead>
+      <tbody style="background-color: #cfcfe740;">
+        {% for banner in object_list %}
+          <tr>
+          <td>{{banner.name}}</td>
+          <td>{{banner.banner_title}}</td>
+          <td>{% if banner.banner_path %}
+          <img src="{{banner.banner_path.url}}" width="200" height="150"/>
+              {% endif %}
+          <td><a class="btn btn-success" href="{% url 'banners_edit'  banner.id  %}">Edit</a>
+              <a class="btn btn-danger" href= "{% url 'banners_delete'  banner.id  %}"
+                 onclick="return confirm('Are you sure you want to delete {{banner.banner_name}}?');">Delete</a>
+          </td>
+          </tr>
+        {% endfor %}
+      </tbody>
+    </table>
+
+  <div>
+    <div class="pull-right"  style="margin-left:15px;">
+    {% if is_paginated %}
+    <ul class="pagination">
+      {% if page_obj.has_previous %}
+        <li><a href="?page={{ page_obj.previous_page_number }}">&laquo;</a></li>
+      {% else %}
+        <li class="disabled"><span>&laquo;</span></li>
+      {% endif %}
+      {% for i in paginator.page_range %}
+        {% if page_obj.number == i %}
+          <li class="active"><span>{{ i }} <span class="sr-only">(current)</span></span></li>
+        {% else %}
+          <li><a href="?page={{ i }}">{{ i }}</a></li>
+        {% endif %}
+      {% endfor %}
+      {% if page_obj.has_next %}
+        <li><a href="?page={{ page_obj.next_page_number }}">&raquo;</a></li>
+      {% else %}
+        <li class="disabled"><span>&raquo;</span></li>
+      {% endif %}
+    </ul>
+    {% endif %}
+    </div>
+  </div>
+
+{% endblock %}
+
