@@ -4,12 +4,12 @@
 
 ### Step 1: Installation
 
-Open requirements.txt and install the packages by 'pip insatll requirements.txt'.
+- Open requirements.txt and install the packages by 'pip insatll requirements.txt'.
 
 ### Step 2: Database Settings
 
-Make changes in file hiring_bot_project/setting.py in DATABASES parameters(USER and PASSWORD).<br />
-Make Database 'django' in mysql 
+- Make changes in file hiring_bot_project/setting.py in DATABASES parameters(USER and PASSWORD).<br />
+- Make Database 'django' in mysql 
 
 ### Step 3:Download
 
