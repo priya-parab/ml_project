@@ -14,9 +14,9 @@
 
 ### Step 3:Download
 
-- Download the folder 'plain_qqp_trained_model' from https://drive.google.com/drive/folders/1ZrUcm8KYg9Wh5SXtK3ExC4uuAwwDKi76?usp=sharing 
-- Download the folder'model-trained-on-python-questions' from https://drive.google.com/drive/folders/1BDK0OAcxgh-UJBG2RGfe6SSEmWF4vEBb?usp=sharing 
-- Save above both folders inside hiring_bot_project/recuiter/
+- plain_qqp_trained_model[click here](https://drive.google.com/drive/folders/1ZrUcm8KYg9Wh5SXtK3ExC4uuAwwDKi76?usp=sharing)
+- model-trained-on-python-questions[click here](https://drive.google.com/drive/folders/1BDK0OAcxgh-UJBG2RGfe6SSEmWF4vEBb?usp=sharing)
+- Save above both folders inside hirig_bot_project/recuiter/
 
 ### Step 4: Run project
 
