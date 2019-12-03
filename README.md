@@ -1,6 +1,7 @@
 # Machine learning project Hiring-bot
 
 ## Introduction
+- This is simple machine learning project. Candidate will login into recuritment site and he will get a questions and answers page where candidate have to fill some answers of given questions and after submitting candiadte will get the score.
 
 ### Step 1: Installation
 
