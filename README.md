@@ -1,4 +1,8 @@
-# ml_project hiring-bot
+# Machine learning project Hiring-bot
+
+## Introduction
+
+### Step 1: Installation
 open requirements.txt and install the packages by 'pip insatll requirements.txt'
 make changes in hiring_bot_project/setting.py in DATABASES parameters(USER and PASSWORD)
 make Database 'django' in mysql 
