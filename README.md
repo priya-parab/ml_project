@@ -14,8 +14,8 @@
 
 ### Step 3:Download
 
-- plain_qqp_trained_model[click here](https://drive.google.com/drive/folders/1ZrUcm8KYg9Wh5SXtK3ExC4uuAwwDKi76?usp=sharing)
-- model-trained-on-python-questions[click here](https://drive.google.com/drive/folders/1BDK0OAcxgh-UJBG2RGfe6SSEmWF4vEBb?usp=sharing)
+- plain_qqp_trained_model [click here](https://drive.google.com/drive/folders/1ZrUcm8KYg9Wh5SXtK3ExC4uuAwwDKi76?usp=sharing)
+- model-trained-on-python-questions [click here](https://drive.google.com/drive/folders/1BDK0OAcxgh-UJBG2RGfe6SSEmWF4vEBb?usp=sharing)
 - Save above both folders inside hirig_bot_project/recuiter/
 
 ### Step 4: Run project
